@@ -1,6 +1,6 @@
 {
-    "name": "stevenmaguire/oauth2-keycloak",
-    "description": "Keycloak OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
+    "name": "willemroman/oauth2-keycloak",
+    "description": "Keycloak OAuth 2.0 Client Provider for The PHP League OAuth2-Client forked from Steven Maguire",
     "license": "MIT",
     "authors": [
         {
